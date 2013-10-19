@@ -2,7 +2,7 @@ body {
   padding-top: 70px;
 }
 
-.jumbotron {
+.jumbotron-background {
   background: url("../img/cat1.png") no-repeat center center;
   background-size: auto;
 }

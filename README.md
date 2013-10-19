@@ -25,6 +25,7 @@ In this workshop you will learn how to use some of the features of Twitter Boots
     * An `h3` heading for each of the steps: `Select a Cat`, `Choose a Plan`, `Enjoy`
     * Some text descibing the step
     * A `View Details` button using the `.btn-default` style
+* Add the class `.text-center` to each column
 
 ## Section #3 - Pricing
 
@@ -50,7 +51,7 @@ In this workshop you will learn how to use some of the features of Twitter Boots
 
 **Part 2**
 
-* Add the class of `.pricing-table` to the table tag
+* Add the custom class of `.pricing-table` to the table tag
 * Install Font Awesome - http://fortawesome.github.io/Font-Awesome/
 * With Font Awesome installed, now change out the `x`'s and `-`'s with `i` tags with the classes of `.icon-check` or `.icon-check-minus`.
 * Add the class of `.text-center` to the table and all table heading cells
