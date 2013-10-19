@@ -70,6 +70,7 @@ In this workshop you will learn how to use some of the features of Twitter Boots
 * Add a select menu for `State`
 * Add a radio select for `Select A Plan`
 * Add a `Sign Up` button with the style of primary
+* Use the Bootstrap grid to adjust the size and placement of the form by wrapping it with 2 divs, one with the class of `.row` and one with the classes `.col-lg-offset-3 col-lg-6`
 
 ## Finished Screenshots
 
