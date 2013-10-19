@@ -1,5 +1,10 @@
 # Intro to Twitter Bootstrap
 
+* [Presentation Slides]()
+* [Workshop Files](https://github.com/darbyfrey/twitter-bootstrap-workshop/archive/master.zip)
+
+In this workshop you will learn how to use some of the features of Twitter Bootstrap 3.0 within the context of building a cat rental website.
+
 ## Section #1 - Jumbotron
 [Jumbotron Docs](http://getbootstrap.com/components/#jumbotron)
 
@@ -64,3 +69,11 @@
 * Add a select menu for `State`
 * Add a radio select for `Select A Plan`
 * Add a `Sign Up` button with the style of primary
+
+## Finished Screenshots
+
+![Screenshot #1](screenshot1.png)
+* * *
+![Screenshot #2](screenshot2.png)
+* * *
+![Screenshot #3](screenshot3.png)
