@@ -1,6 +1,6 @@
 # Intro to Twitter Bootstrap
 
-* [Presentation Slides]()
+* [Presentation Slides](https://speakerdeck.com/darbyfrey/intro-to-twitter-bootstrap-workshop)
 * [Workshop Files](https://github.com/darbyfrey/twitter-bootstrap-workshop/archive/master.zip)
 
 In this workshop you will learn how to use some of the features of Twitter Bootstrap 3.0 within the context of building a cat rental website.
